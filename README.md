@@ -16,13 +16,7 @@ git clone https://github.com/DilanPoulouseuke/Object_Detection_Microservice.git
 cd Object_Detection_Microservice
 ```
 
-2. Clone the YOLOv3 repository and download weights:
-```bash
-git clone https://github.com/ultralytics/yolov3.git ai_backend/yolov3
-wget -P ai_backend/yolov3/ https://github.com/ultralytics/yolov3/releases/download/v9.0/yolov3.pt
-```
-
-3. Build and run the Docker containers:
+2. Build and run the Docker containers:
 ```bash
 docker-compose up --build
 ```
