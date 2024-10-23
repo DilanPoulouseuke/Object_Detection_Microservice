@@ -12,8 +12,8 @@ This project implements a microservice for object detection using the ultralytic
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/object-detection-microservice.git
-cd object_detection_microservice
+git clone https://github.com/DilanPoulouseuke/Object_Detection_Microservice.git
+cd Object_Detection_Microservice
 ```
 
 2. Clone the YOLOv3 repository and download weights:
